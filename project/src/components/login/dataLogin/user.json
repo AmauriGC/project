@@ -1,0 +1,68 @@
+[
+  {
+    "id": 1,
+    "personalData": {
+      "nombre": "Cristian Amauri",
+      "apellidoPaterno": "Gonzaga",
+      "apellidoMaterno": "Castañeda",
+      "curp": "GOCC050221HMSNSRA0",
+      "fechaNacimiento": "21/02/2005",
+      "edad": 20,
+      "sexo": "Masculino"
+    },
+    "addressBorn": {
+      "nacionalidad": "Mexicana",
+      "estadoNacimiento": "Morelos",
+      "municipioNacimiento": "Temixco"
+    },
+    "addressCurrent": {
+      "codigoPostal": "62767",
+      "estado": "Morelos",
+      "municipio": "Emiliano Zapata",
+      "colonia": "Tezoyuca",
+      "calle": "Tesoros de Tezoyuca",
+      "numeroExterior": 5,
+      "numeroInterior": 6
+    },
+    "contactData": {
+      "username": "cris",
+      "email": "cris@gmail.com",
+      "password": "123",
+      "telefonoCasa": "7772424390",
+      "telefonoCelular": "7772841623"
+    }
+  },
+  {
+    "id": 2,
+    "personalData": {
+      "nombre": "Miguel Angel",
+      "apellidoPaterno": "Gonzaga",
+      "apellidoMaterno": "Castañeda",
+      "curp": "GOCM040105HMSNSGA4",
+      "fechaNacimiento": "05/01/2004",
+      "edad": 21,
+      "sexo": "Masculino"
+    },
+    "addressBorn": {
+      "nacionalidad": "Mexicana",
+      "estadoNacimiento": "Morelos",
+      "municipioNacimiento": "Temixco"
+    },
+    "addressCurrent": {
+      "codigoPostal": "62767",
+      "estado": "Morelos",
+      "municipio": "Emiliano Zapata",
+      "colonia": "Tezoyuca",
+      "calle": "Tesoros de Tezoyuca",
+      "numeroExterior": 5,
+      "numeroInterior": 6
+    },
+    "contactData": {
+      "username": "migue",
+      "email": "migue@gmail.com",
+      "password": "123",
+      "telefonoCasa": "7772424390",
+      "telefonoCelular": "7771256007"
+    }
+  }
+]
