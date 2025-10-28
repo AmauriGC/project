@@ -1,7 +1,6 @@
 <script setup>
 </script>
+
 <template>
-    <div>
-        <h1>User View</h1>
-    </div>
+  <h1>Vista del user</h1>
 </template>

@@ -1,7 +1,6 @@
 <script setup>
 </script>
+
 <template>
-    <div>
-        <h1>Admin View</h1>
-    </div>
+  <h1>Vista del admin</h1>
 </template>

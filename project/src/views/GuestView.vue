@@ -1,7 +1,6 @@
 <script setup>
 </script>
+
 <template>
-    <div>
-        <h1>Guest View</h1>
-    </div>
+  <h1>Vista del guest</h1>
 </template>
